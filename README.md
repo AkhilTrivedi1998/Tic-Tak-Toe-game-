@@ -1,4 +1,4 @@
-# Tic-Tak-Toe-game-
+# Tic-Tak-Toe-game
 This is a Tic Tak Toe game created using the pygame library in python.
 It has the following features:
   1. A player can choose multiplayer option to play against another player on the same computer.
